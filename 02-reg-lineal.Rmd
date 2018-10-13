@@ -521,7 +521,7 @@ muy diferentes. Esto produce curvaturas altas en la función que queremos
 minimizar.
 
 En este ejemplo simple, una variable tiene desviación estándar
-10 y otra 1:
+5 y otra 1:
 
 ```{r}
 x1 <- rnorm(100, 0, 5) 
